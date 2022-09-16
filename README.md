@@ -56,5 +56,5 @@ The GAME is about each team A and B will have 5 members each (Stocks) and based 
 
 | S No. |         Contract Name          |                   Description                      |
 |-------|--------------------------------|----------------------------------------------------|
-|   1   |           StockGame            |         A NFT contract based on Stock Markt        |
+|   1   |           StockGame            |         A NFT contract based on Stock Market       |
 |   2   |  StockMarketDataFetcherOracle  |     Oracle contract to fetch stock market data     |
